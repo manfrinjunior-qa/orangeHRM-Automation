@@ -1,0 +1,15 @@
+{
+  "sucess": {
+    "user": "Admin",
+    "password": "admin123"
+  },
+  "invalido": {
+    "user": "user_error",
+    "password": "wrong_password"
+  },
+  "reset": {
+    "user": "test@ibest.com",
+    "password": "wrong_password"
+  }
+  
+}
